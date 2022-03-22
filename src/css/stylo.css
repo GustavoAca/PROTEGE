@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  
+}
+
+
+
+header{
+  width: auto;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  background: rgb(15, 89, 162);
+}
+
+.min_text{
+  width: 250px;
+  height: 50px;
+}
+
+h1 span{  
+  color: #1D91D0; ;
+
+}
+
+ul{
+  background-color: red;
+}
